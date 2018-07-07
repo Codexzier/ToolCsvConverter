@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolCsvConverter", "ToolCsvConverter\ToolCsvConverter.csproj", "{F357BAFF-E6BE-44CC-BA83-BC6E21D04418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F357BAFF-E6BE-44CC-BA83-BC6E21D04418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F357BAFF-E6BE-44CC-BA83-BC6E21D04418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F357BAFF-E6BE-44CC-BA83-BC6E21D04418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F357BAFF-E6BE-44CC-BA83-BC6E21D04418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C770DE7B-2FB5-4B2C-94C8-8112EE60317A}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://legionserver:8080/tfs/projektsammlung
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ToolCsvConverter\\ToolCsvConverter.csproj
+		SccProjectName1 = ToolCsvConverter
+		SccLocalPath1 = ToolCsvConverter
+	EndGlobalSection
+EndGlobal
